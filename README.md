@@ -22,7 +22,7 @@ This project is a Scala implementation of a standard double-deck Blackjack game.
 1. **Clone the Repository:**
    - Open your terminal and run:
      ```bash
-     git clone https://github.com/imawful/functional-blackjack.git
+     git clone https://github.com/barrioskevin/functional-blackjack.git
      ```
 
 2. **Navigate to the Project Directory:**
